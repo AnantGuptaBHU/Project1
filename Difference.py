@@ -1,3 +1,3 @@
 class operation():
-    def subtraction(a,b):
+    def subtraction(self,a,b):
         print("a-b")
