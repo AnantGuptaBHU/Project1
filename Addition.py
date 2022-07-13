@@ -1,2 +1,2 @@
 def addition(a,b):
-    print("result is ",a+b)
+    print("the result is ",a+b)
